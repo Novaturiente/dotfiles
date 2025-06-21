@@ -1,0 +1,19 @@
+#command = "~/.dotfiles/start_tmux.sh"
+window-padding-x = 5
+# window-padding-y = 5
+window-decoration = false
+background-opacity = 0.7
+confirm-close-surface = false
+
+gtk-titlebar = false
+
+theme = cyberdream
+
+shell-integration = fish
+
+mouse-hide-while-typing = true
+gtk-adwaita = false
+
+#font-family = JetBrainsMono Nerd Font Mono
+font-family = AdwaitaMono
+font-size = 13
